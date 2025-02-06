@@ -23,7 +23,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 /* USB和蓝牙的显示参数 */
 #define VENDOR_ID 0x1209 /* USB VID */
 #define PRODUCT_ID 0x0514 /* USB PID */
-#define CONF_VENDOR_ID 0x4366 /* 配置项目内显示的VendorID */
+#define CONF_VENDOR_ID 0x4466 /* 配置项目内显示的VendorID */
 #define CONF_PRODUCT_ID 0x031F /* 配置项目内显示的ProductID */
 #define DEVICE_VER 0x0000 /* 硬件版本 */
 #define MANUFACTURER "Glab" /* 硬件制造商，用于蓝牙显示 */
